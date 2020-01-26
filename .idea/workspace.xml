@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c490175-f912-47f4-94e3-5e5869607520" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/basics/fileWithBlock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,15 +28,15 @@
         <counts>
           <entry key="Python Console" value="6" />
           <entry key="dummy" value="7" />
-          <entry key="py" value="5462" />
+          <entry key="py" value="5590" />
           <entry key="strings" value="16" />
-          <entry key="txt" value="70" />
+          <entry key="txt" value="115" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="77" />
-          <entry key="Python" value="5484" />
+          <entry key="PLAIN_TEXT" value="122" />
+          <entry key="Python" value="5612" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -109,7 +109,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/basics/fileWithBlock.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -542,13 +546,21 @@
       <option name="presentableId" value="Default" />
       <updated>1538308358260</updated>
     </task>
+    <task id="LOCAL-00001" summary="adding fileWithBlock file from PyCharm">
+      <created>1580043964126</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580043964126</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49809885" visible="true" weight="0.24876674" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49809885" visible="true" weight="0.24876674" />
       <window_info id="Structure" order="1" sideWeight="0.50190115" side_tool="true" weight="0.24876674" />
       <window_info id="Favorites" order="2" sideWeight="0.50190115" side_tool="true" weight="0.24876674" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -558,7 +570,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Run Dashboard" order="7" weight="0.3299363" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="7" visible="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3299363" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -570,6 +582,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding fileWithBlock file from PyCharm" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding fileWithBlock file from PyCharm" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/basicSyntax/__init__.py" />
@@ -756,7 +772,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/basics/fileWithBlock.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
